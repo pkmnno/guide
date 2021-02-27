@@ -6,8 +6,8 @@ defaultContentLanguage = "no"
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "pkmn"
-  landingPageURL = "/"
-  landingPageName = "<i class='fas fa-home'></i> Forsiden"
+  landingPageURL = "https://pkmn.no"
+  landingPageName = "<i class='fas fa-home'></i> Hjem"
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]]
