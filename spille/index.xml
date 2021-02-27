@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>[pkmn.no] Samlerguiden</title>
-    <link>https://guide.pkmn.no/</link>
-    <description>Recent content on [pkmn.no] Samlerguiden</description>
+    <title>Spilles on [pkmn.no] Samlerguiden</title>
+    <link>https://guide.pkmn.no/spille/</link>
+    <description>Recent content in Spilles on [pkmn.no] Samlerguiden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>NB-no</language>
     
-	<atom:link href="https://guide.pkmn.no/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://guide.pkmn.no/spille/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://guide.pkmn.no/samle/verdivurdering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guide.pkmn.no/samle/verdivurdering/</guid>
-      <description>Verdivurdering Ett av de vanligste spørsmålene som stilles er: Hvor mye er Pokémon-kortet mitt verdt? For veldig mange er dette det som definerer om et kort er bra eller ikke.
-Verdivurdering av kort er ikke enkelt. Verdien til et kort er dirkete avhengig av tilstanden kortet er i. For å bedømme tilstanden benyttes ofte profesjonelle firma som for eksempel PSA eller Beckett.
-Er kortet mitt verdifullt? Det enkleste er å sjekke opp kortet ditt i vårt Kortopedia.</description>
-    </item>
     
     <item>
       <title></title>
