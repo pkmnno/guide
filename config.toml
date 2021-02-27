@@ -5,7 +5,7 @@ theme = "hugo-theme-learn"
 defaultContentLanguage = "no"
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+  themeVariant = "pkmn"
   landingPageURL = "/"
   landingPageName = "<i class='fas fa-home'></i> Forsiden"
 [outputs]
