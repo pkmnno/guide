@@ -1,4 +1,7 @@
-# Standard format
++++
+title = "Standard format"
+weight = 5
++++
 
 **Standard format** i Pokémon Trading Card Game (TCG) er ett av to lovlige format i offisielle Pokémon TCG turneringer.  Det andre formatet kalles .[Expanded format](/guide/tcg/expanded-format). Før sesongen 2013-2014 var det kalt **Modified format**.
 
