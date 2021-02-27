@@ -1,3 +1,9 @@
++++
+title = "{{ replace .Name "-" " " | title }}"
+date =  {{ .Date }}
+weight = 5
++++
+
 # Verdivurdering
 Ett av de vanligste spørsmålene som stilles er: *Hvor mye er Pokémon-kortet mitt verdt?*
 For veldig mange er dette det som definerer om et kort er bra eller ikke.
