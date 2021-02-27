@@ -2,6 +2,7 @@ baseURL = "https://guide.pkmn.no/"
 languageCode = "NB-no"
 title = "[pkmn.no] Samlerguiden"
 theme = "hugo-theme-learn"
+defaultContentLanguage = "no"
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "blue"
