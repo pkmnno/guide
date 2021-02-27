@@ -1,6 +1,5 @@
 +++
 title = "Verdivurdering"
-date =  {{ .Date }}
 weight = 5
 +++
 
