@@ -19,7 +19,7 @@ Denne er normalt sett oppgitt i USD, men kan enkelt regnes om til kroner ved å 
 Trykk i søkeboksen øverst på siden, og skriv inn navnet på kortet. Får du mange treff skriver du også inn nummeret du
 finner nederst på kortet.
 
-![Eksempel](/storage/wiki/image-asset.png)
+![Eksempel](https:/pkmn.no/storage/wiki/image-asset.png)
 
 For eksempel [Cinderace 34](https://pkmn.no/cards/collection?query=cinderace%2034) i dette tilfellet.
 Når du har søkt opp kortet trykker du på `Vis prisinformasjon`. 
