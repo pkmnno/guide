@@ -2,3 +2,12 @@ baseURL = "https://guide.pkmn.no/"
 languageCode = "NB-no"
 title = "[pkmn.no] Samlerguiden"
 theme = "hugo-theme-learn"
+landingPageURL = "/"
+landingPageName = "<i class='fas fa-home'></i> Forsiden"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
