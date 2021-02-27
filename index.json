@@ -7,6 +7,13 @@
 	"content": "Samlerguiden "
 },
 {
+	"uri": "https://guide.pkmn.no/spille/",
+	"title": "Spillerguiden",
+	"tags": [],
+	"description": "",
+	"content": "Spillerguiden "
+},
+{
 	"uri": "https://guide.pkmn.no/samle/verdivurdering/",
 	"title": "Verdivurdering",
 	"tags": [],
@@ -30,13 +37,6 @@
 {
 	"uri": "https://guide.pkmn.no/categories/",
 	"title": "Categories",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://guide.pkmn.no/spille/",
-	"title": "Spilles",
 	"tags": [],
 	"description": "",
 	"content": ""
