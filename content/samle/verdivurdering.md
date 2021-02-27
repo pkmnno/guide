@@ -1,10 +1,11 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = "Verdivurdering"
 date =  {{ .Date }}
 weight = 5
 +++
 
 # Verdivurdering
+
 Ett av de vanligste spørsmålene som stilles er: *Hvor mye er Pokémon-kortet mitt verdt?*
 For veldig mange er dette det som definerer om et kort er bra eller ikke.
 
@@ -12,10 +13,12 @@ Verdivurdering av kort er ikke enkelt. Verdien til et kort er dirkete avhengig a
 kortet er i. For å bedømme tilstanden benyttes ofte profesjonelle firma som for eksempel [PSA](/guide/psa) eller Beckett.
 
 ## Er kortet mitt verdifullt?
+
 Det enkleste er å sjekke opp kortet ditt i vårt Kortopedia. Der vil du finne prishistorikk til akkurat dette kortet.
 Denne er normalt sett oppgitt i USD, men kan enkelt regnes om til kroner ved å gange med ca. 10.
 
 ## Hvordan søke opp kort
+
 Trykk i søkeboksen øverst på siden, og skriv inn navnet på kortet. Får du mange treff skriver du også inn nummeret du
 finner nederst på kortet.
 
@@ -25,6 +28,7 @@ For eksempel [Cinderace 34](https://pkmn.no/cards/collection?query=cinderace%203
 Når du har søkt opp kortet trykker du på `Vis prisinformasjon`. 
 
 ## Tilstand til koret
+
 Mange blir veldig optimistiske når man leser avisene og leser om de som har fått en formue for sin 1. edition Charizard.
 Det som er veldig viktig å huske på er at tilstanden til kortet har ufattelig mye å si.
 
