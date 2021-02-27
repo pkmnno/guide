@@ -10,3 +10,7 @@ defaultContentLanguage = "no"
   landingPageName = "<i class='fas fa-home'></i> Forsiden"
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
+[[menu.shortcuts]]
+name = "<i class='fas fa-camera'></i> Kortopedia"
+url = "https://pkmn.no/sets"
+weight = 11
