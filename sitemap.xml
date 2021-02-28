@@ -35,12 +35,11 @@
   </url>
   
   <url>
-    <loc>https://guide.pkmn.no/</loc>
-    <priority>0</priority>
+    <loc>https://guide.pkmn.no/categories/</loc>
   </url>
   
   <url>
-    <loc>https://guide.pkmn.no/categories/</loc>
+    <loc>https://guide.pkmn.no/</loc>
   </url>
   
   <url>

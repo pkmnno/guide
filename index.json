@@ -56,18 +56,18 @@
 	"content": "Gradering "
 },
 {
-	"uri": "https://guide.pkmn.no/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": "Den ultimate guiden til Pokémon-samlekortspill "
-},
-{
 	"uri": "https://guide.pkmn.no/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://guide.pkmn.no/",
+	"title": "Pokémon-samlekortguiden",
+	"tags": [],
+	"description": "",
+	"content": "Den ultimate guiden til Pokémon-samlekortspill Velkommen til Pokémon-samlekortguiden på pkmn.no. Denne guiden er et samarbeidsprosjekt mellom flere ulike personer. Målet med denne guiden er å gi det norske Pokémon TCG miljøet en komplett guide til både samlng og spilling, på Norsk.\n"
 },
 {
 	"uri": "https://guide.pkmn.no/samle/gradering/psa/",
