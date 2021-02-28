@@ -5,4 +5,23 @@ chapter = true
 pre = "<b>2. </b>"
 +++
 
-# Spillerguiden
+# Trading Card Game
+
+## Regler
+
+## Format
+
+### Standard format
+[Standard format](/guide/tcg/standard-format)
+
+### Expanded format
+
+## Ligaer
+
+## Klasser
+
+### Junior
+
+### Senior
+
+### Master
