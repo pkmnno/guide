@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://guide.pkmn.no/uttrykk/</loc>
+  </url>
+  
+  <url>
     <loc>https://guide.pkmn.no/uttrykk/1edition/</loc>
   </url>
   
@@ -28,11 +32,6 @@
   
   <url>
     <loc>https://guide.pkmn.no/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guide.pkmn.no/uttrykk/</loc>
     <priority>0</priority>
   </url>
   
