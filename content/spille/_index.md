@@ -12,7 +12,7 @@ pre = "<b>2. </b>"
 ## Format
 
 ### Standard format
-[Standard format](/guide/tcg/standard-format)
+[Standard format](/spille/standard-format)
 
 ### Expanded format
 
