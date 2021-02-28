@@ -28,15 +28,16 @@
   </url>
   
   <url>
+    <loc>https://guide.pkmn.no/uttrykk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://guide.pkmn.no/categories/</loc>
   </url>
   
   <url>
     <loc>https://guide.pkmn.no/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://guide.pkmn.no/uttrykk/</loc>
   </url>
   
 </urlset>
