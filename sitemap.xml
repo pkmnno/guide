@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://guide.pkmn.no/uttrykk/rotering/</loc>
+  </url>
+  
+  <url>
     <loc>https://guide.pkmn.no/spille/standard-format/</loc>
   </url>
   
@@ -29,6 +33,10 @@
   
   <url>
     <loc>https://guide.pkmn.no/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guide.pkmn.no/uttrykk/</loc>
   </url>
   
 </urlset>
