@@ -1,6 +1,6 @@
 baseURL = "https://guide.pkmn.no/"
 languageCode = "NB-no"
-title = "[pkmn.no] Samlerguiden"
+title = "[pkmn.no]"
 theme = "hugo-theme-learn"
 defaultContentLanguage = "no"
 [params]
