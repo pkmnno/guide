@@ -7,7 +7,7 @@ defaultContentLanguage = "no"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "pkmn"
   landingPageURL = "/"
-  landingPageName = "<i class='fas fa-home'></i> Pokémon-samlekortguiden"
+  landingPageName = "<i class='fas fa-home'></i> Pokémonkort-guiden"
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]]
