@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pokémon-samlekortguiden on [pkmn.no]</title>
+    <title>Pokémonkort-guiden on [pkmn.no]</title>
     <link>https://guide.pkmn.no/</link>
-    <description>Recent content in Pokémon-samlekortguiden on [pkmn.no]</description>
+    <description>Recent content in Pokémonkort-guiden on [pkmn.no]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>NB-no</language>
     
@@ -29,16 +29,6 @@
     </item>
     
     <item>
-      <title>Standard format</title>
-      <link>https://guide.pkmn.no/spille/standard-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guide.pkmn.no/spille/standard-format/</guid>
-      <description>Standard format i Pokémon Trading Card Game (TCG) er ett av to lovlige format i offisielle Pokémon TCG turneringer. Det andre formatet kalles .Expanded format. Før sesongen 2013-2014 var det kalt Modified format.
-Liste over standard format  2001-02 — Team Rocket til Legendary Collection 2002-03 — Neo Genesis til Skyridge 2003-04 — Expedition til EX Hidden Legends 2004-05 — EX Ruby &amp;amp; Sapphire til EX Emerald 2005-06 — EX Hidden Legends til EX Holon Phantoms 2006-07 — EX Deoxys til Diamond &amp;amp; Pearl 2007-08 — EX Holon Phantoms til Majestic Dawn 2008-10 — Diamond &amp;amp; Pearl til Rising Rivals (2008-2009); Diamond &amp;amp; Pearl til Unleashed (2009-2010) 2010-11 — Majestic Dawn til Black &amp;amp; White 2011-12 — HeartGold &amp;amp; SoulSilver til Dark Explorers 2012-13 — Black &amp;amp; White til Plasma Freeze 2013-14 — Next Destinies til Flashfire 2014-15 — Boundaries Crossed til Roaring Skies 2015-16 — XY til Steam Siege 2016-17 — Primal Clash til Burning Shadows 2017-18 — BREAKthrough til Celestial Storm 2018-19 — Sun &amp;amp; Moon til Unbroken Bonds 2019-20 — Ultra Prism til Rebel Clash 2020-21 — Team Up og nyere  </description>
-    </item>
-    
-    <item>
       <title>Verdivurdering</title>
       <link>https://guide.pkmn.no/samle/verdivurdering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,6 +37,37 @@ Liste over standard format  2001-02 — Team Rocket til Legendary Collection 200
       <description>Ett av de vanligste spørsmålene som stilles er: Hvor mye er Pokémon-kortet mitt verdt? For veldig mange er dette det som definerer om et kort er bra eller ikke.
 Verdivurdering av kort er ikke enkelt. Verdien til et kort er dirkete avhengig av tilstanden kortet er i. For å bedømme tilstanden benyttes ofte profesjonelle firma som for eksempel PSA eller Beckett.
 Er kortet mitt verdifullt? Det enkleste er å sjekke opp kortet ditt i vårt Kortopedia.</description>
+    </item>
+    
+    <item>
+      <title>2020-21 Standard Format</title>
+      <link>https://guide.pkmn.no/spille/standard-format/2020-21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/spille/standard-format/2020-21/</guid>
+      <description>Spillperiode 2020-21 Standard ble annonsert on 27 april, 2020, og roterte ut sett fra Ultra Prism til Lost Thunder.
+Lovlige sett Sun &amp;amp; Moon  Team Up Detective Pikachu Unbroken Bonds Unified Minds Hidden Fates Cosmic Eclipse  Sword &amp;amp; Shield Series  Sword &amp;amp; Shield Rebel Clash Darkness Ablaze Vivid Voltage  Black Star Promos  SM Black Star Promos SM158 og høyere SWSH Black Star Promos SWSH001 og høyere  Roterte sett Sett som ikke lenger er lovlige i Standard Format.</description>
+    </item>
+    
+    <item>
+      <title>Bli en supersamler</title>
+      <link>https://guide.pkmn.no/supersamler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/supersamler/</guid>
+      <description>Blir du supersamler så aktiveres det automagisk flere funksjoner på pkmn.no. Supersamler-brukere er for deg som er seriøs samler og som har behov for enda mer informasjon om kortene i kortopedia, og enda flere muligheter når du skal organisere samlingen dine.
+Hvorfor koster det penger? pkmn.no drives som en hobby, og som alle hobbier koster det penger, og noen ting er ganske dyrt. For eksmepel er det å lagre og sende bilder i høy oppløsning nesten 100 ganger dyrere enn bilder i lav oppløsning.</description>
+    </item>
+    
+    <item>
+      <title>Pokémon 25års-jubileum</title>
+      <link>https://guide.pkmn.no/samle/events/25-aars-jubileum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/samle/events/25-aars-jubileum/</guid>
+      <description>Offisiell nettside Pokémon.com har lansert den offisielle 25-års jubileum-nettsiden! Denne inkluderer en helt ny video som også inkluderer Katy Parry!
+Musikksamarbeid The Pokémon Company har inngått et samarbeid med noen av de største navnene i POP-bransjen. Den første annonseringen avslørte at de vil samarbeide med Katy Perry. 27. februar arrangeres det en digital konsert med Pokémon fan Post Malone.
+Rundtur i Pokémon-verden Hver måned besøker vi en ny region i Pokémon-verden.</description>
     </item>
     
     <item>

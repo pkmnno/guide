@@ -4,6 +4,11 @@
   
   <url>
     <loc>https://guide.pkmn.no/samle/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guide.pkmn.no/spille/standard-format/</loc>
   </url>
   
   <url>
@@ -23,10 +28,6 @@
   </url>
   
   <url>
-    <loc>https://guide.pkmn.no/spille/standard-format/</loc>
-  </url>
-  
-  <url>
     <loc>https://guide.pkmn.no/samle/verdivurdering/</loc>
   </url>
   
@@ -35,7 +36,23 @@
   </url>
   
   <url>
+    <loc>https://guide.pkmn.no/samle/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guide.pkmn.no/spille/standard-format/2020-21/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guide.pkmn.no/supersamler/</loc>
+  </url>
+  
+  <url>
     <loc>https://guide.pkmn.no/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guide.pkmn.no/samle/events/25-aars-jubileum/</loc>
   </url>
   
   <url>
