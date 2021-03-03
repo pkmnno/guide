@@ -3,13 +3,17 @@ languageCode = "NB-no"
 title = "[pkmn.no]"
 theme = "hugo-theme-learn"
 defaultContentLanguage = "no"
+#enableGitInfo=true
+
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "pkmn"
   landingPageURL = "/"
   landingPageName = "<i class='fas fa-home'></i> Pokémonkort-guiden"
+
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
+
 [[menu.shortcuts]]
 name = "<i class='fas fa-camera'></i> Kortopedia"
 url = "https://pkmn.no/sets"

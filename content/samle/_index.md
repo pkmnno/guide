@@ -3,7 +3,7 @@ title = "Samlerguiden"
 weight = 1
 chapter = true
 pre = "<b>1. </b>"
-
+date = "2021-03-02"
 LastModifierDisplayName = "Audun Oddekalv"
 LastModifierEmail = "audun@pkmn.no"
 +++
