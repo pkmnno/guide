@@ -1,6 +1,6 @@
 +++
 title = "Gradering"
-weight = 50
+weight = 51
 chapter = true
 pre = "<b>1.1 </b>"
 +++

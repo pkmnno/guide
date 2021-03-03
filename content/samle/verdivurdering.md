@@ -11,18 +11,18 @@ kortet er i. For å bedømme tilstanden benyttes ofte profesjonelle firma som fo
 
 ## Er kortet mitt verdifullt?
 
-Det enkleste er å sjekke opp kortet ditt i vårt Kortopedia. Der vil du finne prishistorikk til akkurat dette kortet.
+Det enkleste er å sjekke opp kortet ditt i vårt [Kortopedia](https://pkmn.no/sets). Der vil du finne prishistorikk til akkurat dette kortet.
 Denne er normalt sett oppgitt i USD, men kan enkelt regnes om til kroner ved å gange med ca. 10.
 
 ## Hvordan søke opp kort
 
-Trykk i søkeboksen øverst på siden, og skriv inn navnet på kortet. Får du mange treff skriver du også inn nummeret du
+Den enkleste måten og finne anslått markedsverdi til ett kort er å søke kortet opp i [Kortopedia på pkmn.no](https://pkmn.no/sets). Trykk i søkeboksen øverst på siden, og skriv inn navnet på kortet. Får du mange treff skriver du også inn nummeret du
 finner nederst på kortet.
 
 ![Eksempel](https://pkmn.no/storage/wiki/image-asset.png)
 
 For eksempel [Cinderace 34](https://pkmn.no/cards/collection?query=cinderace%2034) i dette tilfellet.
-Når du har søkt opp kortet trykker du på `Vis prisinformasjon`. 
+Når du har søkt opp kortet trykker du på `Vis prisinformasjon`.
 
 ## Tilstand til koret
 

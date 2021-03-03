@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Pokémon-samlekortguiden on [pkmn.no]</title>
+    <link>https://guide.pkmn.no/</link>
+    <description>Recent content in Pokémon-samlekortguiden on [pkmn.no]</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>NB-no</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://guide.pkmn.no/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1st edition</title>
+      <link>https://guide.pkmn.no/uttrykk/1edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/uttrykk/1edition/</guid>
+      <description>First edition er første utgaven eller opplaget av ett kortsett. Disse kortene kommer i booster pakker med ett &amp;ldquo;first edition&amp;rdquo; symbolet. Disse er sjeldnere enn utgavene etter &amp;ldquo;first edition&amp;rdquo; som gjerne kalles &amp;ldquo;unlimited&amp;rdquo; hvor det ikke er noe symbol til venstre på kortet der first edition symbolet vanligvis er. Disse kortene og pakkene ble ikke solgt i Europa og hadde et begrenset trykk noe som gjør at disse er dyrere enn vanlig unlimited.</description>
+    </item>
+    
+    <item>
+      <title>Rotering</title>
+      <link>https://guide.pkmn.no/uttrykk/rotering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/uttrykk/rotering/</guid>
+      <description>Å rotere ut et sett betyr at det ikke lenger kan benyttes i Standard eller Expanded formatene.</description>
+    </item>
+    
+    <item>
+      <title>Standard format</title>
+      <link>https://guide.pkmn.no/spille/standard-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/spille/standard-format/</guid>
+      <description>Standard format i Pokémon Trading Card Game (TCG) er ett av to lovlige format i offisielle Pokémon TCG turneringer. Det andre formatet kalles .Expanded format. Før sesongen 2013-2014 var det kalt Modified format.
+Liste over standard format  2001-02 — Team Rocket til Legendary Collection 2002-03 — Neo Genesis til Skyridge 2003-04 — Expedition til EX Hidden Legends 2004-05 — EX Ruby &amp;amp; Sapphire til EX Emerald 2005-06 — EX Hidden Legends til EX Holon Phantoms 2006-07 — EX Deoxys til Diamond &amp;amp; Pearl 2007-08 — EX Holon Phantoms til Majestic Dawn 2008-10 — Diamond &amp;amp; Pearl til Rising Rivals (2008-2009); Diamond &amp;amp; Pearl til Unleashed (2009-2010) 2010-11 — Majestic Dawn til Black &amp;amp; White 2011-12 — HeartGold &amp;amp; SoulSilver til Dark Explorers 2012-13 — Black &amp;amp; White til Plasma Freeze 2013-14 — Next Destinies til Flashfire 2014-15 — Boundaries Crossed til Roaring Skies 2015-16 — XY til Steam Siege 2016-17 — Primal Clash til Burning Shadows 2017-18 — BREAKthrough til Celestial Storm 2018-19 — Sun &amp;amp; Moon til Unbroken Bonds 2019-20 — Ultra Prism til Rebel Clash 2020-21 — Team Up og nyere  </description>
+    </item>
+    
+    <item>
+      <title>Verdivurdering</title>
+      <link>https://guide.pkmn.no/samle/verdivurdering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/samle/verdivurdering/</guid>
+      <description>Ett av de vanligste spørsmålene som stilles er: Hvor mye er Pokémon-kortet mitt verdt? For veldig mange er dette det som definerer om et kort er bra eller ikke.
+Verdivurdering av kort er ikke enkelt. Verdien til et kort er dirkete avhengig av tilstanden kortet er i. For å bedømme tilstanden benyttes ofte profesjonelle firma som for eksempel PSA eller Beckett.
+Er kortet mitt verdifullt? Det enkleste er å sjekke opp kortet ditt i vårt Kortopedia.</description>
+    </item>
+    
+    <item>
+      <title>PSA</title>
+      <link>https://guide.pkmn.no/samle/gradering/psa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/samle/gradering/psa/</guid>
+      <description>Professional Sports Authenticator (PSA) er den største og mest brukte tjenesten for å autentisere og tilstandsbedømme (gradere) samlekort. Siden starten i 1991 har PSA bedømt over 40 millioner kort.</description>
+    </item>
     
   </channel>
 </rss>
