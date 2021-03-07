@@ -2,7 +2,13 @@
 title="Hvordan beskytte kortene"
 menuTitle="Beskytte kort"
 weight=5
+[[resources]]
+  name="sleeves"
+  src="sleeves.PNG"
+
 +++
+
+*Denne siden er under arbeid! Kom tilbake seinere!*
 
 En felle mange nye samlere går i er å undervurdere hvor viktig det er å ta skikkelig vare på kortene.
 Etter hvert som tiden går slites kortene dersom dette ikke gjøres riktig fra starten av. Slitte kort
@@ -11,7 +17,13 @@ bytte kortet.
 
 ## Sleeves
 
+Sleeves er den vanligste og billigste formen for beskyttelse for Pokémon-kort.
+De kommer i vanlig mange varianter og prisklasser, men alle har samme oppgave: **Beskytte kortene mot skraper, fingermerker og søl.**
+
+
 ### Pennysleeves
+
+{{<figure src="/samle/sleeves.PNG?height=250" title="Pennysleeves">}}
 
 ### Perfect fit
 
@@ -20,3 +32,5 @@ bytte kortet.
 ## Oppbevaring i perm
 
 ## Utstilling
+
+## Sende i posten
