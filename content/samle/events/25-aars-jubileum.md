@@ -31,41 +31,20 @@ Full oversikt over alle kortene er tilgengelig i [kortopedia](https://pkmn.no/se
 
 Hver generasjon vil få sin egen "First Partner Pack" som inneholder tre jumbo-kort og to vanlige booster-pakker.
 
-![Galar](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Galar.png?width=100)
-5. Mars, 2021: Pokémon TCG: First Partner Pack (Galar)
+{{% notice note %}}
+I Norge ble pakkene solgt uten de medfølgende booster pakkene, samt de var pakket i klar plast som et promo kort og ikke skikkelig pakke som vist på bildene.
+{{% /notice %}}
 
-![Alola](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Alola.png?width=100)
-2. April, 2021: Pokémon TCG: First Partner Pack (Alola)
-
-![Kalos](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Kalos-1.png?width=100)
-7. Mai, 2021: Pokémon TCG: First Partner Pack (Kalos)
-
-![Unova](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Unova.png?width=100)
-4. Juni, 2021: Pokémon TCG: First Partner Pack (Unova)
-
-![Sinnoh](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Sinnoh.png?width=100)
-9. Juli, 2021: Pokémon TCG: First Partner Pack (Sinnoh)
-
-![Hoenn](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Hoenn.png?width=100)
-6. August 2021: Pokémon TCG: First Partner Pack (Hoenn)
-
-![Johto](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Johto.png?width=100)
-3. September, 2021: Pokémon TCG: First Partner Pack (Johto)
-
-![Kanto](https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Kanto.png?width=100)
-8 Oktober, 2021: Pokémon TCG: First Partner Pack (Kanto)
-
-
-
-
-
-
-
-
-
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Galar.png?width=100" title="5. Mars, 2021: Pokémon TCG: First Partner Pack (Galar)">}}
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Alola.png?width=100" title="2. April, 2021: Pokémon TCG: First Partner Pack (Alola)">}}
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Kalos-1.png?width=100" title="7. Mai, 2021: Pokémon TCG: First Partner Pack (Kalos)">}}
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Unova.png?width=100" title="4. Juni, 2021: Pokémon TCG: First Partner Pack (Unova)">}}
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Sinnoh.png?width=100" title="9. Juli, 2021: Pokémon TCG: First Partner Pack (Sinnoh)">}}
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Hoenn.png?width=100" title="6. August 2021: Pokémon TCG: First Partner Pack (Hoenn)">}}
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Johto.png?width=100" title="3. September, 2021: Pokémon TCG: First Partner Pack (Johto)">}}
+{{<figure src="https://pkmn.no/storage/wiki/25/Pokemon_TCG_First_Partner_Pack_Kanto.png?width=100" title="8 Oktober, 2021: Pokémon TCG: First Partner Pack (Kanto)">}}
 
 Det lanseres også en egen perm for samling av jumbokortene. Denne permen kommer med Pikachu-kortet vist under.
-
 
 ![Samleobjekt](https://pkmn.no/storage/wiki/25/Pokemon-TCG-First-Partner-Collectors-Binder_EN-1200x1200-dc2acf3.jpg?width=100)
 ![Samleobjekt](https://pkmn.no/storage/wiki/25/Pikachu-Jumbo.jpg?width=400)
