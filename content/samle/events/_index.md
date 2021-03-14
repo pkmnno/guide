@@ -1,9 +1,9 @@
 +++
 title="Spesielle arrangement og events"
 menuTitle="Events"
-weight=52
+weight=53
 chapter = true
-pre = "<b>1.2 </b>"
+pre = "<b>1.3 </b>"
 +++
 
 # Spesielle arrangement og events

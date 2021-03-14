@@ -53,7 +53,6 @@ Det finnes utallige produkter du kan bruke for å stille ut kort på en kul måt
 
 | Hva        | Produkt                    | Butikk                         |
 | ---------- | -------------------------- | -------------------------------|
-Sleeves      | BCW Sleeves Deck Guard     | [2. TRADE](https://www.2trade.no/produkt/tilbehor/sleeves-deck-boxes/legion-supplies-sleeves-deck-guard-matte-bk-50pk-1)
-Pennysleeves | Ultra Pro Card Sleeves     | [2. TRADE](https://www.2trade.no/produkt/tilbehor/beskyttelse/ultra-pro-card-sleeves-100pk)
-Toploaders   | Ultra Pro Regular Toploader| [2. TRADE](https://www.2trade.no/produkt/tilbehor/beskyttelse/ultra-pro-toploader-regular)
+Pennysleeves | Ultra Pro Card Sleeves     | [GAME22](https://game22.no/produkt/shining-fates-1/ultra-pro-premium-card-sleeves)
+Toploaders   | Ultra Pro Regular Toploader| [GAME22](https://game22.no/produkt/shining-fates-1/ultrapro-toploader-3x4-25-clear-regular-1)
 Perm         | Ultimate Guard 9-Pocket Zipfolio XenoSkin | [Poku](https://poku.no/produkt/tcg-tilbehor/ultimate-guard-9-pocket-zipfolio-xenoskin-svart/)

@@ -1,8 +1,8 @@
 +++
 title = "Gradering"
-weight = 51
+weight = 52
 chapter = true
-pre = "<b>1.1 </b>"
+pre = "<b>1.2 </b>"
 +++
 
 # Gradering
