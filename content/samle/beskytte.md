@@ -1,7 +1,7 @@
 +++
 title="Hvordan beskytte kortene"
 menuTitle="Beskytte kort"
-weight=5
+weight=4
 [[resources]]
   name="sleeves"
   src="sleeves.PNG"

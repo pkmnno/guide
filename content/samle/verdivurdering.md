@@ -1,5 +1,6 @@
 +++
 title = "Verdivurdering"
+menuTitle="Finne verdi"
 weight = 5
 +++
 
