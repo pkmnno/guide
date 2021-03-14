@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>1st edition</title>
-      <link>https://guide.pkmn.no/uttrykk/1edition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guide.pkmn.no/uttrykk/1edition/</guid>
-      <description>First edition er første utgaven eller opplaget av ett kortsett. Disse kortene kommer i booster pakker med ett &amp;ldquo;first edition&amp;rdquo; symbolet. Disse er sjeldnere enn utgavene etter &amp;ldquo;first edition&amp;rdquo; som gjerne kalles &amp;ldquo;unlimited&amp;rdquo; hvor det ikke er noe symbol til venstre på kortet der first edition symbolet vanligvis er. Disse kortene og pakkene ble ikke solgt i Europa og hadde et begrenset trykk noe som gjør at disse er dyrere enn vanlig unlimited.</description>
-    </item>
-    
-    <item>
       <title>Hvordan beskytte kortene</title>
       <link>https://guide.pkmn.no/samle/beskytte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,6 +18,15 @@
       <guid>https://guide.pkmn.no/samle/beskytte/</guid>
       <description>En felle mange nye samlere går i er å undervurdere hvor viktig det er å ta skikkelig vare på kortene. Etter hvert som tiden går slites kortene dersom dette ikke gjøres riktig fra starten av. Slitte kort er både mindre pene å se på og mye mindre verdifulle dersom man på et tidspunkt ønsker å selge eller bytte kortet.
 Sleeves Sleeves er den vanligste og billigste formen for beskyttelse for Pokémon-kort.</description>
+    </item>
+    
+    <item>
+      <title>1st edition</title>
+      <link>https://guide.pkmn.no/uttrykk/1edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/uttrykk/1edition/</guid>
+      <description>First edition er første utgaven eller opplaget av ett kortsett. Disse kortene kommer i booster pakker med ett &amp;ldquo;first edition&amp;rdquo; symbolet. Disse er sjeldnere enn utgavene etter &amp;ldquo;first edition&amp;rdquo; som gjerne kalles &amp;ldquo;unlimited&amp;rdquo; hvor det ikke er noe symbol til venstre på kortet der first edition symbolet vanligvis er. Disse kortene og pakkene ble ikke solgt i Europa og hadde et begrenset trykk noe som gjør at disse er dyrere enn vanlig unlimited.</description>
     </item>
     
     <item>
@@ -47,6 +47,17 @@ Sleeves Sleeves er den vanligste og billigste formen for beskyttelse for Pokémo
       <description>Ett av de vanligste spørsmålene som stilles er: Hvor mye er Pokémon-kortet mitt verdt? For veldig mange er dette det som definerer om et kort er bra eller ikke.
 Verdivurdering av kort er ikke enkelt. Verdien til et kort er dirkete avhengig av tilstanden kortet er i. For å bedømme tilstanden benyttes ofte profesjonelle firma som for eksempel PSA eller Beckett.
 Er kortet mitt verdifullt? Det enkleste er å sjekke opp kortet ditt i vårt Kortopedia.</description>
+    </item>
+    
+    <item>
+      <title>Falske Pokémon-kort</title>
+      <link>https://guide.pkmn.no/samle/falske-kort/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guide.pkmn.no/samle/falske-kort/</guid>
+      <description>Det kryr dessverre av falske Pokémon-kort ikke bare i utlandet men også i Norge. Falske kort er skadelig for hobbien og bør unngås.
+Før vi klarer å lage en bedre guide selv, anbefaler vi Skolerom sin artikkel.
+ </description>
     </item>
     
     <item>
