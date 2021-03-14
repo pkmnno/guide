@@ -1,7 +1,8 @@
-+++
-title="Battle Styles"
-pre="<b>SWSH5</b> "
-+++
+---
+title: "Battle Styles"
+pre: "<b>SWSH5</b> "
+hidden: true
+---
 
 **Battle Styles** er det engelske navnet på den femte utvidelsen til *Sword & Shield* serien. Battle Styles ble *utgitt 19. mars 2021*, er var det første settet med *Single Strike* og *Rapid Strike* mekanikken.
 
