@@ -8,4 +8,5 @@ Følgende er en ikke komplett liste over engelske utvidelser som er utgitt til *
 
 | Navn                                       | Antall kort | Utgitt      |
 | ------------------------------------------ | ----------- | ----------- |
+| [Chilling Reign](/samle/sett/chilling-reign) |             | 18.juni 2021
 | [Battle Styles](/samle/sett/battle-styles) |             | 19.mars 2021
