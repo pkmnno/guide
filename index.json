@@ -67,14 +67,21 @@
 	"title": "Utgivelser",
 	"tags": [],
 	"description": "",
-	"content": "Følgende er en ikke komplett liste over engelske utvidelser som er utgitt til Pokémon Trading Card Game.\n   Navn Antall kort Utgitt     Battle Styles  19.mars 2021    "
+	"content": "Følgende er en ikke komplett liste over engelske utvidelser som er utgitt til Pokémon Trading Card Game.\n   Navn Antall kort Utgitt     Chilling Reign  18.juni 2021   Battle Styles  19.mars 2021    "
 },
 {
 	"uri": "https://guide.pkmn.no/samle/gradering/",
 	"title": "Gradering",
 	"tags": [],
 	"description": "",
-	"content": "Gradering "
+	"content": "Gradering Dette kapittelet tar for seg gradering av kort. På sikt vi vil forsøke å beskrive flere aspekter av det å gradere kort, men i første omgang vil vi kort beskrive hvordan du går frem dersom du ønsker å gradere dine kort.\n  Kort gradert av PSA   "
+},
+{
+	"uri": "https://guide.pkmn.no/samle/gradering/hvordan/",
+	"title": "Hvordan gradere kort",
+	"tags": [],
+	"description": "",
+	"content": "Det finnes mange fremgangsmåter for gradering av Pokémon-kort, og det finnes mange valg av graderingsfirma. Man må tenke på pakking, fortolling og forsendelse av kortene, og i de fleste tilfellene skal kortene sendes til USA. Hele prosessen kan virke overveldene. Heldigvis finnes det en enkel løsning.\n  Kort gradert av PSA   Bruk en mellommann Vår anbefaling er enkel: Bruk en mellommann når du skal sende inn kort til gradering. En mellommann, eller i praksis, et mellomfirma er et firma som gjør mye av jobben for deg. De tar dialogen med graderingsfirmaet, de pakker og de fortoller kortene slik at alt går som det skal. Det eneste du trenger å tenke på er å sende kortene til et firma i Norge, så ordner de resten.\nGraded Gem Norge Graded Gem er i utgangspunktet et Britisk firma som jevnlig sender kort til PSA for gradering. De har nylig etablert en avdeling i Norge slik at det nå er veldig enkelt for alle å sende inn kort til PSA. Du finner mer informasjon på Facebook-gruppen deres.\nPoke4Dayz Poke4Dayz sender inn kort både til PSA, BGS og CGC. På nettsidene til Poke4Dayz melder du din interesse. Du vil så bli kontaktet med videre instrukser.\n"
 },
 {
 	"uri": "https://guide.pkmn.no/samle/events/",
@@ -110,6 +117,13 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://guide.pkmn.no/samle/sett/chilling-reign/",
+	"title": "Chilling Reign",
+	"tags": [],
+	"description": "",
+	"content": " Denne siden beskriver en fremtidig utgivelse.\n Chilling Reign er det engelske navnet på den sjette utvidelsen til Sword \u0026amp; Shield serien. Chilling Reign lanseres på engelsk den 18. juni 2021.\n"
 },
 {
 	"uri": "https://guide.pkmn.no/samle/events/25-aars-jubileum/",
