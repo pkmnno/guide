@@ -1,7 +1,7 @@
 baseURL = "https://guide.pkmn.no/"
 languageCode = "NB-no"
 title = "[pkmn.no]"
-theme = "pkmn-no"
+theme = "hugo-theme-learn"
 defaultContentLanguage = "no"
 #enableGitInfo=true
 
